@@ -1,7 +1,7 @@
 # School-Work
 Senior Design - Worked as part of a 6-member team on creating a 21 foot long wall mounted LED number line and sound system to aid in the weekly physical therapy routines of mentally and physically disabled high school students.
-- in charge of designing and implementing the numberline display (see .jpg image inside)
-- won a design excellence award for my contibutions (See PNG image for finished design)
+- Designed and implemented the display and mounting system (see .jpg image inside)
+- won a design excellence award for my contibutions 
 
 Strassen.c - Using a variety of multi-threading and optimiztation techniques to minimize the runtime of Strassen's Recursive matrix matrix multiply (mmm) method.
 
